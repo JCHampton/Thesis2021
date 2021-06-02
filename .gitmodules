@@ -1,0 +1,3 @@
+[submodule "NBA-Player-Movements"]
+	path = NBA-Player-Movements
+	url = https://github.com/linouk23/NBA-Player-Movements.git
